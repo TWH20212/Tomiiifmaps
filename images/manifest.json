@@ -1,0 +1,66 @@
+{
+  "id" : "https://TWH20212.github.io/Tomiiifmaps/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in TWH20212/Tomiiifmaps project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 10122,
+    "id" : "https://TWH20212.github.io/Tomiiifmaps/images/maps_k_top_116_40/canvas/",
+    "label" : {
+      "none" : [ "maps_k_top_116_40" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://TWH20212.github.io/Tomiiifmaps/images/maps_k_top_116_40/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://TWH20212.github.io/Tomiiifmaps/images/maps_k_top_116_40/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 317,
+              "height" : 230
+            }, {
+              "width" : 633,
+              "height" : 460
+            }, {
+              "width" : 1266,
+              "height" : 920
+            }, {
+              "width" : 2531,
+              "height" : 1840
+            }, {
+              "width" : 5061,
+              "height" : 3679
+            }, {
+              "width" : 10122,
+              "height" : 7357
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 10122,
+            "@id" : "https://TWH20212.github.io/Tomiiifmaps/images/maps_k_top_116_40",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 7357
+          } ],
+          "format" : "image/jpeg",
+          "width" : 10122,
+          "id" : "https://TWH20212.github.io/Tomiiifmaps/images/maps_k_top_116_40/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 7357
+        },
+        "target" : "https://TWH20212.github.io/Tomiiifmaps/images/maps_k_top_116_40/canvas/"
+      } ]
+    } ],
+    "height" : 7357
+  } ]
+}
