@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://TWH20212.github.io/Tomiiifmaps/manifests/manifest2json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://TWH20212.github.io/Tomiiifmaps/manifests/manifest2.json",
+    "label" : "[Click to edit label]"
   } ]
 }
