@@ -20,7 +20,7 @@
     "canvases" : [ {
       "@id" : "http://69af5d78-5d41-4048-b458-c8e32c47eeaf",
       "@type" : "sc:Canvas",
-      "label" : "recto",
+      "label" : "page 1",
       "height" : 6143,
       "width" : 4536,
       "images" : [ {
