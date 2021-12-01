@@ -1,0 +1,13 @@
+{
+  "id" : "https://TWH20212.github.io/Tomiiifmaps/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in TWH20212/Tomiiifmaps project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://TWH20212.github.io/Tomiiifmaps/manifests/manifest2json",
+    "label" : "[Click to edit label]"
+  } ]
+}
